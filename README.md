@@ -1,2 +1,2 @@
-# game
-My First Project
+TIC TAC TOE
+Basic Tic Tac Toe Game
